@@ -1,0 +1,1 @@
+# rnd-get-coin-status
